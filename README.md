@@ -1,4 +1,4 @@
-<h1>Grauen no Torikago (Grauen's Birdcage)</h1>
+<h1>Grauen no Torikago (Birdcage of Horrors)</h1>
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/blob/main/cover.jpg?raw=true">These are restoration patches for all six discs of the multimedida discs "Grauen no Torikago" (Grauen's Birdcage) on the Sega Dreamcast. Originally, players were required to access a special website on their console in order to unlock sections of the story (explained in the <a href="#about">About</a> section).
 <br><br>
 Note that due to the size of video content, these patches are presently only being offered in GDI format for users of ODEs and emulators.
@@ -35,4 +35,12 @@ Download the restoration patches (more information in the <a href="#patching-ins
 </ol>
 
 <h2>About</h2>
-Text goes here...
+<img width="267" height="200" align="right" src="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/blob/main/about.jpg?raw=true">"Grauen no Torikago" (Birdcage of Horrors) is a horror film produced and published by Sega. It was released between September and July of 1999, taking the form of six multimedia GD-ROM discs. While the format and structure of these discs is not technically <a href="https://segaretro.org/Mil-CD">MiL-CD</a>, they do leverage Sega's own MiL-CD playback software.
+<br><br>
+The film was available exclusively through the <a href="https://segaretro.org/Sega_Direct">Dreamcast Direct</a>a> online service and is uniquely presented in 365 one-minute episodes across the six discs. Each episode became accessible gradually over a year, from October 1st, 1999, to October 1st, 2000. Originally, viewers had to connect their Dreamcast to the internet daily and download special save files to their VMU to unlock new episodes.
+<br><br>
+Shortly after the final episode was released, the servers went offline. Now, to watch the entire film, one must use a special VMU save or extract the videos from the GDI disc image. Each entry of "Grauen no Torikago" was only available to those who completed the previous chapters, making subsequent entries extremely rare.
+<br><br>
+By applying these patches to all six discs, one can experience them in their entirety without any special save file or without the need for anyone to magically restore the now long-dead servers that had previously been used to unlock video content.
+<br><br>
+While these patches currently do nothing to translate (i.e., add subtitles) to any of the video content, such may be tackled in a future project.
