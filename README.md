@@ -10,7 +10,7 @@ Download the restoration patches (more information in the <a href="#patching-ins
  <br>
   <li><b>Grauen no Torikago - Kapitel 2 - Torikago</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%202%20-%20Torikago%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 2 - Torikago (Restoration Patch).dcp</a>.</li>
  <br>
-  <li><b>Grauen no Torikago - Kapitel 3 - Kansei</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%203%20-%20Kansei%20(Restoration%20Patch).dcp">Grauen no Torikago - KKapitel 3 - Kansei (Restoration Patch).dcp</a>.</li>
+  <li><b>Grauen no Torikago - Kapitel 3 - Kansei</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%203%20-%20Kansei%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 3 - Kansei (Restoration Patch).dcp</a>.</li>
  <br>
   <li><b>Grauen no Torikago - Kapitel 4 - Kaikou</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%204%20-%20Kaikou%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 4 - Kaikou (Restoration Patch).dcp</a>.</li>
  <br>
