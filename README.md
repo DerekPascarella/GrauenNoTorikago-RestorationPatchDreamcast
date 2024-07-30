@@ -10,13 +10,13 @@ Download the restoration patches (more information in the <a href="#patching-ins
  <br>
   <li><b>Grauen no Torikago - Kapitel 2 - Torikago</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%202%20-%20Torikago%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 2 - Torikago (Restoration Patch).dcp</a>.</li>
  <br>
-  <li><b>Grauen no Torikago - Kapitel 3 - Kansei</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%203%20-%20Kansei%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 2 - Torikago (Restoration Patch).dcp</a>.</li>
+  <li><b>Grauen no Torikago - Kapitel 3 - Kansei</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%203%20-%20Kansei%20(Restoration%20Patch).dcp">Grauen no Torikago - KKapitel 3 - Kansei (Restoration Patch).dcp</a>.</li>
  <br>
-  <li><b>Grauen no Torikago - Kapitel 4 - Kaikou</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%204%20-%20Kaikou%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 2 - Torikago (Restoration Patch).dcp</a>.</li>
+  <li><b>Grauen no Torikago - Kapitel 4 - Kaikou</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%204%20-%20Kaikou%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 4 - Kaikou (Restoration Patch).dcp</a>.</li>
  <br>
-  <li><b>Grauen no Torikago - Kapitel 5 - Shokuzai</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%205%20-%20Shokuzai%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 2 - Torikago (Restoration Patch).dcp</a>.</li>
+  <li><b>Grauen no Torikago - Kapitel 5 - Shokuzai</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%205%20-%20Shokuzai%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 5 - Shokuzai (Restoration Patch).dcp</a>.</li>
  <br>
-  <li><b>Grauen no Torikago - Kapitel 6 - Senritsu</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%206%20-%20Senritsu%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 2 - Torikago (Restoration Patch).dcp</a>.</li>
+  <li><b>Grauen no Torikago - Kapitel 6 - Senritsu</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%206%20-%20Senritsu%20(Restoration%20Patch).dcp">Grauen no Torikago - Kapitel 6 - Senritsu (Restoration Patch).dcp</a>.</li>
 </ul>
 
 <h2>Table of Contents</h2>
