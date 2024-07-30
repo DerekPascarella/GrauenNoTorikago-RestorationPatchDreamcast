@@ -39,8 +39,8 @@ Download the restoration patches (more information in the <a href="#patching-ins
 <br><br>
 The film was available exclusively through the <a href="https://segaretro.org/Sega_Direct">Dreamcast Direct</a> online service and was uniquely presented in 365 one-minute episodes across each of the six discs. Each episode became accessible gradually over a year, from October 1st, 1999 to October 1st, 2000. Originally, viewers had to connect their Dreamcast to the internet daily and download special save files to their VMU to unlock new episodes. Additionally, each entry of "Grauen no Torikago" was only available to those who completed the previous chapters.
 <br><br>
-<img width="267" height="200" align="right" src="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/blob/main/player.jpg?raw=true">Shortly after the final episode was released, the servers went offline. Until now, to watch the entire film, one was required to use a special VMU save file or extract the videos from the disc image itself for external playback.
+Shortly after the final episode was released, the servers went offline. Until now, to watch the entire film, one was required to use a special VMU save file or extract the videos from the disc image itself for external playback.
 <br><br>
-By applying these patches to all six discs, one can experience them in their entirety without any special save file or without the need for anyone to magically restore the now long-dead servers that had previously been used to unlock video content.
+<img width="267" height="200" align="right" src="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/blob/main/player.jpg?raw=true">By applying these patches to all six discs, one can experience them in their entirety without any special save file or without the need for anyone to magically restore the now long-dead servers that had previously been used to unlock video content.
 <br><br>
 While these patches currently do nothing to translate any of the video content (i.e., add subtitles), such may be tackled in a future project.
