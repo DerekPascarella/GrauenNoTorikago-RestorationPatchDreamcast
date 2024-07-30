@@ -43,4 +43,4 @@ Shortly after the final episode was released, the servers went offline. Until no
 <br><br>
 By applying these patches to all six discs, one can experience them in their entirety without any special save file or without the need for anyone to magically restore the now long-dead servers that had previously been used to unlock video content.
 <br><br>
-While these patches currently do nothing to translate (i.e., add subtitles) to any of the video content, such may be tackled in a future project.
+While these patches currently do nothing to translate any of the video content (i.e., add subtitles), such may be tackled in a future project.
