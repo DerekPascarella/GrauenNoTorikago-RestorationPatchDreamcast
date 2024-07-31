@@ -1,5 +1,5 @@
 <h1>Grauen no Torikago (Birdcage of Horrors)</h1>
-<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/blob/main/cover.jpg?raw=true">These are restoration patches for all six discs of the multimedida discs "Grauen no Torikago" (Grauen's Birdcage) on the Sega Dreamcast. Originally, players were required to access a special website on their console in order to unlock sections of the story (explained in the <a href="#about">About</a> section).
+<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/blob/main/cover.jpg?raw=true">These are restoration patches for all six discs of the multimedida discs "Grauen no Torikago" (Birdcage of Horrors) on the Sega Dreamcast. Originally, players were required to access a special website on their console in order to unlock sections of the story (explained in the <a href="#about">About</a> section).
 <br><br>
 Note that due to the size of video content, these patches are presently only being offered in GDI format for users of ODEs and emulators.
 <br><br>
